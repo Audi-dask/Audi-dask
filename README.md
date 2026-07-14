@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Audi-dask</h1>
 
 <p align="center">
+  <strong>全栈开发者，关注基础设施、后端系统与 AI 辅助工程化。</strong>
+</p>
+
+<p align="center">
   <strong>Full-stack developer focused on infrastructure, backend systems, and AI-assisted engineering.</strong>
 </p>
 
@@ -66,14 +70,14 @@ LLM skill-registry for AIOps · Claude / Gemini / Trae paired development · Oll
 
 ## Featured Projects
 
-| Project | Description | Stack |
+| 项目 | 描述 | 技术栈 |
 |---|---|---|
-| **nextmeta** | AST-based MySQL audit platform with dynamic rule configuration, static analysis, goInception integration, and role-based permissions. | Go, GORM, React, Ant Design, MySQL |
-| **Ledger** | Transparent Redis audit proxy implementing the RESP protocol with command-level logging and credential abstraction. | Go, Redis RESP |
-| **RiverSync** | MySQL-to-MySQL CDC sync tool combining per-table bootstrap with binlog-based incremental replication. | Go, MySQL Binlog |
-| **Atree** | AI-native project collaboration system with a semantic file tree and explicit AI behavior rules to reduce context consumption. | Node.js, Express |
-| **Unified Monitoring Agent** | Single-binary agent merging node_exporter, process_exporter, and promtail with systemd-based service discovery. | Go, Prometheus, Loki |
-| **StaticHost** | Self-hosted static site origin hosting platform for private deployment workflows. | Go, MinIO, Nginx |
+| **nextmeta** | 基于 AST 的 MySQL 审核平台，支持动态规则配置、静态分析、goInception 集成及角色权限管理。 | Go, GORM, React, Ant Design, MySQL |
+| **Ledger** | 基于 RESP 协议实现的透明 Redis 审计代理，支持命令级日志记录与凭据抽象。 | Go, Redis RESP |
+| **RiverSync** | MySQL 到 MySQL 的 CDC 同步工具，结合逐表全量初始化与基于 Binlog 的增量复制。 | Go, MySQL Binlog |
+| **Atree** | AI 原生项目协作系统，通过语义化文件树和显式 AI 行为规则降低上下文消耗。 | Node.js, Express |
+| **Unified Monitoring Agent** | 单二进制监控代理，整合 node_exporter、process_exporter 和 promtail，并支持基于 systemd 的服务发现。 | Go, Prometheus, Loki |
+| **StaticHost** | 面向私有化部署流程的自托管静态网站源站平台。 | Go, MinIO, Nginx |
 
 ---
 
@@ -82,23 +86,6 @@ LLM skill-registry for AIOps · Claude / Gemini / Trae paired development · Oll
 - PostgreSQL compatibility for **nextmeta**.
 - AI-assisted engineering workflows with explicit behavior rules and reusable skill registries.
 - Local AI tools, desktop automation, and Apple Silicon model inference.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Audi-dask&show_icons=true&theme=transparent" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Audi-dask&layout=compact&theme=transparent" alt="Top Languages" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Audi-dask&theme=transparent" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Audi-dask&theme=github-compact" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
