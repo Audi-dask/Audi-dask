@@ -5,23 +5,19 @@
 </p>
 
 <p align="center">
-  <strong>Full-stack developer focused on infrastructure, backend systems, and AI-assisted engineering.</strong>
-</p>
-
-<p align="center">
-  Building low-dependency tools, internal platforms, and automation systems across cloud, database, observability, and developer workflows.
+  构建低依赖工具、内部平台与自动化系统，覆盖云基础设施、数据库、可观测性及开发工作流。
 </p>
 
 ---
 
-## About Me
+## 关于我
 
-- Ops Team Lead at a fintech company, managing multi-cloud infrastructure across Kubernetes, Tencent Cloud, AWS, Huawei Cloud, and Cloudflare.
-- Built **nextmeta**, an AST-based MySQL audit platform with React / Ant Design frontend, Go / GORM backend, dynamic rule configuration, and role-based permissions.
-- Build production-grade infrastructure tools in Go, including Redis audit proxies, MySQL CDC sync tools, unified monitoring agents, and static hosting platforms.
-- Experienced in incident response, gateway protection, WAF / CC rules, rate limiting, behavioral captcha, and production troubleshooting.
-- Exploring AI-assisted development, LLM skill-registry patterns for AIOps, local AI tools, and structured context rules for AI-paired coding.
-- Interested in desktop utilities, local model deployment, and Apple Silicon optimization with Swift / SwiftUI, PyTorch, Ollama, and Qwen models.
+- 金融科技公司运维团队负责人，负责 Kubernetes、腾讯云、AWS、华为云及 Cloudflare 等多云基础设施的管理与维护。
+- 开发了 **nextmeta**：基于 AST 的 MySQL 审核平台，前端使用 React / Ant Design，后端使用 Go / GORM，支持动态规则配置与角色权限管理。
+- 使用 Go 构建生产级基础设施工具，包括 Redis 审计代理、MySQL CDC 同步工具、统一监控代理和静态网站托管平台。
+- 具备生产安全事件响应经验，涉及 WAF / CC 防护、网关限流、行为验证码及线上故障排查。
+- 探索 AI 辅助开发模式，包括面向 AIOps 的 LLM Skill Registry、本地 AI 工具，以及降低上下文开销的 AI 协作规则。
+- 关注桌面工具、本地模型部署与 Apple Silicon 优化，涉及 Swift / SwiftUI、PyTorch、Ollama 和 Qwen 系列模型。
 
 ---
 
@@ -76,7 +72,7 @@ LLM skill-registry for AIOps · Claude / Gemini / Trae paired development · Oll
 | **Ledger** | 基于 RESP 协议实现的透明 Redis 审计代理，支持命令级日志记录与凭据抽象。 | Go, Redis RESP |
 | **RiverSync** | MySQL 到 MySQL 的 CDC 同步工具，结合逐表全量初始化与基于 Binlog 的增量复制。 | Go, MySQL Binlog |
 | **Atree** | AI 原生项目协作系统，通过语义化文件树和显式 AI 行为规则降低上下文消耗。 | Node.js, Express |
-| ** Monitoring Agent** | 单二进制监控代理，整合 node_exporter、process_exporter 和 promtail，并支持基于 systemd 的服务发现。 | Go, Prometheus, Loki |
+| **Monitoring Agent** | 单二进制监控代理，整合 node_exporter、process_exporter 和 promtail，并支持基于 systemd 的服务发现。 | Go, Prometheus, Loki |
 | **Pagelite** | 面向私有化部署流程的自托管静态网站源站平台。 | Go, MinIO, Nginx |
 
 ---
