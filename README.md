@@ -76,8 +76,8 @@ LLM skill-registry for AIOps · Claude / Gemini / Trae paired development · Oll
 | **Ledger** | 基于 RESP 协议实现的透明 Redis 审计代理，支持命令级日志记录与凭据抽象。 | Go, Redis RESP |
 | **RiverSync** | MySQL 到 MySQL 的 CDC 同步工具，结合逐表全量初始化与基于 Binlog 的增量复制。 | Go, MySQL Binlog |
 | **Atree** | AI 原生项目协作系统，通过语义化文件树和显式 AI 行为规则降低上下文消耗。 | Node.js, Express |
-| **Unified Monitoring Agent** | 单二进制监控代理，整合 node_exporter、process_exporter 和 promtail，并支持基于 systemd 的服务发现。 | Go, Prometheus, Loki |
-| **StaticHost** | 面向私有化部署流程的自托管静态网站源站平台。 | Go, MinIO, Nginx |
+| ** Monitoring Agent** | 单二进制监控代理，整合 node_exporter、process_exporter 和 promtail，并支持基于 systemd 的服务发现。 | Go, Prometheus, Loki |
+| **Pagelite** | 面向私有化部署流程的自托管静态网站源站平台。 | Go, MinIO, Nginx |
 
 ---
 
