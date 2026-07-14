@@ -1,67 +1,107 @@
-<h1 align="center">Hey there, It's Audi-dask <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h1 align="center">A server operation and maintenance development engineer from China🇨🇳</h1>
-  
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/vector.gif" align="right" width="320">  
+<h1 align="center">Hi, I'm Audi-dask</h1>
 
+<p align="center">
+  <strong>Full-stack developer focused on infrastructure, backend systems, and AI-assisted engineering.</strong>
+</p>
 
-  
-<hr>
-  
-<details>  
-  <summary>⚛️ Frameworks, Languages & Other Tools</summary>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=github&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-    <img src="https://img.shields.io/badge/json-3A3A3A?style=for-the-badge&logo=json&logoColor=fff" alt="json" />
-    <img src="https://img.shields.io/badge/markdown-499bea?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="my sql" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
-    <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=fff" alt="windows" />
-  </p>
-</details>  
-  
-<details>
-  <summary>📊 Weekly Developement Breakdown</summary>
-  
-<!--START_SECTION:waka-->
-```text
-Other        13 mins         █████████████████████░░░░   84.44 % 
-Markdown     2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-```
-<!--END_SECTION:waka--> 
-</details>  
- 
-<hr>  
-  
-# 📚 Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->  
-  
-<hr>  
-  
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Audi-dask&layout=compact&theme=midnight-purple">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Audi-dask&layout=compact&theme=midnight-purple" />
-</a>    
+<p align="center">
+  Building low-dependency tools, internal platforms, and automation systems across cloud, database, observability, and developer workflows.
+</p>
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=Audi-dask&theme=midnight-purple">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Audi-dask&theme=midnight-purple" />
-</a>
-  
-<a href="https://github-readme-stats.vercel.app/api?username=Audi-dask&theme=midnight-purple">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Audi-dask&show_icons=true&theme=midnight-purple" />
-</a>
-  
-<hr>   
+---
 
-<p align="left">
-  <img width="90%" 
-   src="https://activity-graph.herokuapp.com/graph?username=Audi-dask&theme=synthwave-84" />
-</p>   
-  
-<img src="https://github.com/gurjeetsinghvirdee/gurjeetsinghvirdee/blob/main/github-user-contribution.svg">    
+## About Me
+
+- Ops Team Lead at a fintech company, managing multi-cloud infrastructure across Kubernetes, Tencent Cloud, AWS, Huawei Cloud, and Cloudflare.
+- Built **nextmeta**, an AST-based MySQL audit platform with React / Ant Design frontend, Go / GORM backend, dynamic rule configuration, and role-based permissions.
+- Build production-grade infrastructure tools in Go, including Redis audit proxies, MySQL CDC sync tools, unified monitoring agents, and static hosting platforms.
+- Experienced in incident response, gateway protection, WAF / CC rules, rate limiting, behavioral captcha, and production troubleshooting.
+- Exploring AI-assisted development, LLM skill-registry patterns for AIOps, local AI tools, and structured context rules for AI-paired coding.
+- Interested in desktop utilities, local model deployment, and Apple Silicon optimization with Swift / SwiftUI, PyTorch, Ollama, and Qwen models.
+
+---
+
+## Tech Stack
+
+### Frontend & Desktop
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+
+### Backend
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### DevOps / Infrastructure
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Tools:** Grafana · Loki · MinIO · Caddy · Tailscale / Headscale · Teleport · Forgejo Actions · Shell Scripting
+
+### AI-assisted Development
+
+LLM skill-registry for AIOps · Claude / Gemini / Trae paired development · Ollama · Qwen3-TTS · PyTorch · Apple Silicon MPS optimization
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **nextmeta** | AST-based MySQL audit platform with dynamic rule configuration, static analysis, goInception integration, and role-based permissions. | Go, GORM, React, Ant Design, MySQL |
+| **Ledger** | Transparent Redis audit proxy implementing the RESP protocol with command-level logging and credential abstraction. | Go, Redis RESP |
+| **RiverSync** | MySQL-to-MySQL CDC sync tool combining per-table bootstrap with binlog-based incremental replication. | Go, MySQL Binlog |
+| **Atree** | AI-native project collaboration system with a semantic file tree and explicit AI behavior rules to reduce context consumption. | Node.js, Express |
+| **Unified Monitoring Agent** | Single-binary agent merging node_exporter, process_exporter, and promtail with systemd-based service discovery. | Go, Prometheus, Loki |
+| **StaticHost** | Self-hosted static site origin hosting platform for private deployment workflows. | Go, MinIO, Nginx |
+
+---
+
+## Currently Exploring
+
+- PostgreSQL compatibility for **nextmeta**.
+- AI-assisted engineering workflows with explicit behavior rules and reusable skill registries.
+- Local AI tools, desktop automation, and Apple Silicon model inference.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Audi-dask&show_icons=true&theme=transparent" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Audi-dask&layout=compact&theme=transparent" alt="Top Languages" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Audi-dask&theme=transparent" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Audi-dask&theme=github-compact" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Open to discussions around infrastructure tooling, backend systems, self-hosted AI tools, and full-stack engineering.</strong>
+</p>
