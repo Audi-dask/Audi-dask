@@ -68,7 +68,7 @@ LLM skill-registry for AIOps · Claude / Gemini / Trae paired development · Oll
 
 | 项目 | 描述 | 技术栈 |
 |---|---|---|
-| **nextmeta** | 基于 AST 的 MySQL 审核平台，支持动态规则配置、静态分析、goInception 集成及角色权限管理。 | Go, GORM, React, Ant Design, MySQL |
+| **nextmeta** |  MySQL 审核平台，支持动态规则配置、静态分析，角色权限管理。 | Go, GORM, React, Ant Design, MySQL |
 | **Ledger** | 基于 RESP 协议实现的透明 Redis 审计代理，支持命令级日志记录与凭据抽象。 | Go, Redis RESP |
 | **RiverSync** | MySQL 到 MySQL 的 CDC 同步工具，结合逐表全量初始化与基于 Binlog 的增量复制。 | Go, MySQL Binlog |
 | **Atree** | AI 原生项目协作系统，通过语义化文件树和显式 AI 行为规则降低上下文消耗。 | Node.js, Express |
