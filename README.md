@@ -13,7 +13,7 @@
 ## 关于我
 
 - 金融科技公司运维团队负责人，负责 Kubernetes、腾讯云、AWS、华为云及 Cloudflare 等多云基础设施的管理与维护。
-- 开发了 **nextmeta**：基于 AST 的 MySQL 审核平台，前端使用 React / Ant Design，后端使用 Go / GORM，支持动态规则配置与角色权限管理。
+- 开发了 **nextmeta**：MySQL 审核平台，前端使用 React / Ant Design，后端使用 Go / GORM，支持动态规则配置与角色权限管理。
 - 使用 Go 构建生产级基础设施工具，包括 Redis 审计代理、MySQL CDC 同步工具、统一监控代理和静态网站托管平台。
 - 具备生产安全事件响应经验，涉及 WAF / CC 防护、网关限流、行为验证码及线上故障排查。
 - 探索 AI 辅助开发模式，包括面向 AIOps 的 LLM Skill Registry、本地 AI 工具，以及降低上下文开销的 AI 协作规则。
