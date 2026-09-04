@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/Audi-dask"><img src="https://img.shields.io/badge/GitHub-Audi--dask-181717?style=flat-square&logo=github" alt="GitHub"></a>
   <a href="https://github.com/tailscale/tailcat/pull/62"><img src="https://img.shields.io/badge/tailcat-PR%20%2362%20merged-2ea44f?style=flat-square&logo=github" alt="tailcat PR 62 merged"></a>
-  <a href="https://github.com/tailscale/tailcat/pull/75"><img src="https://img.shields.io/badge/tailcat-PR%20%2375%20open-8957e5?style=flat-square&logo=github" alt="tailcat PR 75 open"></a>
+  <a href="https://github.com/tailscale/tailcat/pull/75"><img src="https://img.shields.io/badge/tailcat-PR%20%2375%20merged-2ea44f?style=flat-square&logo=github" alt="tailcat PR 75 merged"></a>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 | 状态 | 贡献 | 结果 |
 |---|---|---|
 | ✅ Merged | [PR #62 — add forward subcommand](https://github.com/tailscale/tailcat/pull/62) | 本地 TCP 转发、多端口映射、绑定地址；包含单元、CLI 与端到端测试 |
-| 🚧 Open | [PR #75 — exit-node targets](https://github.com/tailscale/tailcat/pull/75) | 支持通过 Exit Node 转发到任意可达的 `IP:port` 目标 |
+| ✅ Merged | [PR #75 — exit-node targets](https://github.com/tailscale/tailcat/pull/75) | 支持通过 Exit Node 转发到任意可达的 `IP:port` 目标；已合并到上游 |
 
 ---
 
@@ -50,7 +50,7 @@
 |---|---|---|
 | [Overseer](https://github.com/Audi-dask/Overseer) | 企业自托管 AI Code Review Agent，自动分析 GitLab MR 与 Push 并回填评审结果。 | Go · GitLab · LLM |
 | [NextMeta](https://github.com/Audi-dask/NextMeta) | MySQL 审核平台，支持动态规则配置、静态分析和角色权限管理。 | Go · React · MySQL |
-| [tailcat-forward](https://github.com/Audi-dask/tailcat-forward) | 基于官方 [tailcat](https://github.com/tailscale/tailcat) Fork 的功能验证仓库：在上游尚未支持 TCP 转发时实现并验证该能力，相关成果随后通过 [PR #62](https://github.com/tailscale/tailcat/pull/62) 进入上游，并继续推进 [PR #75](https://github.com/tailscale/tailcat/pull/75)。 | Go · TCP · Tailscale |
+| [tailcat-forward](https://github.com/Audi-dask/tailcat-forward) | 基于官方 [tailcat](https://github.com/tailscale/tailcat) Fork 的功能验证仓库：在上游尚未支持 TCP 转发时实现并验证该能力，随后通过 [PR #62](https://github.com/tailscale/tailcat/pull/62) 将基础功能合并到上游，并通过 [PR #75](https://github.com/tailscale/tailcat/pull/75) 将 Exit Node 目标转发能力合并到上游。 | Go · TCP · Tailscale |
 | Ledger | 透明 Redis 审计代理，支持命令级日志与凭据抽象。 | Go · Redis RESP |
 | RiverSync | MySQL CDC 同步工具，支持全量初始化与 Binlog 增量复制。 | Go · MySQL Binlog |
 | Monitoring Agent | 单二进制监控代理，整合 exporters 与 promtail。 | Go · Prometheus · Loki |
